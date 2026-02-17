@@ -1,0 +1,1 @@
+Get-AppxPackage Microsoft.Copilot | Remove-AppxPackage

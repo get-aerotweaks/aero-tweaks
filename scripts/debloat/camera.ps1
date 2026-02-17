@@ -1,0 +1,1 @@
+Get-AppxPackage Microsoft.WindowsCamera | Remove-AppxPackage

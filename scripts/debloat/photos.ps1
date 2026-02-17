@@ -1,0 +1,1 @@
+Get-AppPackage Microsoft.Windows.Photos | Remove-AppxPackage
